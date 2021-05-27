@@ -1,6 +1,6 @@
 """ARREGLOS UNIDIMENSIONALES"""
 """GUARDAR en un arreglo los numeros pares y en otro arreglo los numeros impares
-comprendidos del 1 al 100 e imprimirlos por la pantalla"""
+comprendidos del 1 al 100 e imprimirlos por la pantalla, .append (guardar)"""
 
 
 par = []
